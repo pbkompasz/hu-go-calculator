@@ -1,0 +1,19 @@
+{
+  "name": "hu-go-calculator",
+  "version": "1.0.0",
+  "description": "RESTful API for HU-GO electronic toll system route calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbkompasz/hu-go-calculator.git"
+  },
+  "author": "pbkompasz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbkompasz/hu-go-calculator/issues"
+  },
+  "homepage": "https://github.com/pbkompasz/hu-go-calculator#readme"
+}
